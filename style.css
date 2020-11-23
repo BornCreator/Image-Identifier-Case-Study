@@ -1,0 +1,17 @@
+body{
+    font-family: 'Permanent Marker', cursive;
+    background-color:purple;
+}
+
+.list_item{
+    background-color: white;
+    border-radius:30px;
+    padding:20px;
+    margin-left:10%;
+    height:450px;
+    margin-bottom:20px;
+}
+
+.list_item img{
+    height:200px;
+}
